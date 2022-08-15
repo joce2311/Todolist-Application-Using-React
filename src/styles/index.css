@@ -1,4 +1,11 @@
+body{
+    background-color: rgb(146, 77, 77);
+    position: relative;
+    top: 20px;
+    left: 20px;
+    font-size: 35px;
 
+}
 /* 
 
     You can write your own styles here...
